@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Roket">
+    <file>Roket.PNG</file>
+  </qresource>
+</RCC>

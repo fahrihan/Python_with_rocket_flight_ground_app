@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="magnetar_yazi">
+    <file>magnetar_yazi.png</file>
+  </qresource>
+</RCC>
